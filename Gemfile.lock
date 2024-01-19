@@ -1,0 +1,23 @@
+GIT
+  remote: https://github.com/visualitypl/fuzzy-string-match
+  revision: 06914265046bfd7d424a71dc2a00ece8f23bfa25
+  specs:
+    fuzzy-string-match (1.0.1)
+      RubyInline (>= 3.8.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    RubyInline (3.14.0)
+      ZenTest (~> 4.3)
+    ZenTest (4.12.1)
+
+PLATFORMS
+  arm64-darwin-21
+  arm64-darwin-22
+
+DEPENDENCIES
+  fuzzy-string-match!
+
+BUNDLED WITH
+   2.4.12
